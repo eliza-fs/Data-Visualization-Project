@@ -43,4 +43,4 @@ Bank Customer Churn Prediction dataset from Kaggle (9,996 records, 12 columns). 
 
 ## Report
 
-The full report (in Indonesian) is available in [`report/`](report/).
+The full report (in Indonesian) is available in [`Dataset (Cleaned).csv/`](Dataset (Cleaned).csv/).
