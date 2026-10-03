@@ -39,8 +39,8 @@ Tableau (dashboard), Python (data preprocessing)
 
 ## Dataset
 
-Bank Customer Churn Prediction dataset from Kaggle (9,996 records, 12 columns). Add the link and check the license on the Kaggle page before redistributing the file.
+`Dataset (Cleaned).csv` Bank Customer Churn Prediction dataset from Kaggle (9,996 records, 12 columns). 
 
 ## Report
 
-The full report (in Indonesian) is available in [`Data-Analytics-Report.pdf`](Data-Analytics-Report.pdf/).
+The full report (in Indonesian) is available in [`Data-Visualization-Report.pdf`](Data-Visualization-Report.pdf/).
