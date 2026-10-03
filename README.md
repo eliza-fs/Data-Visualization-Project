@@ -4,7 +4,7 @@ Group project for Data Visualization, BINUS University (4-person team). This is 
 
 ## Live Dashboard
 
-**[View the interactive dashboard on Tableau Public]:**
+**View the interactive dashboard on Tableau Public:**
 https://public.tableau.com/app/profile/elizaveta.susanto/viz/BankCustomerChurnAnalysis_17823
 840201330/Dashboard4?publish=yes
 https://public.tableau.com/app/profile/elizaveta.susanto/viz/Dashboard21_17823842948050/Das
